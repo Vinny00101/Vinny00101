@@ -1,6 +1,4 @@
-<h1 align="left">Hey 👋 Welcome to my profile!</h1>
-
-###
+<h1 align="center">Hey 👋 Welcome to my profile!</h1>
 
 <p align="left">My name is Vinny and I'm from Brazil.</p>
 
