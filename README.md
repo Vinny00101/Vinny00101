@@ -1,9 +1,14 @@
 <h1 align="center">Hey 👋 Welcome to my profile!</h1>
 
-  <div align="center">
-    <h2 align="left">About me</h2>
-    <p align="left">Hello! I'm Vinny, an Information Systems student and Back-end Developer with experience in .NET (C#, ASP.NET Core, Entity Framework Core), TypeScript (Node.js,             Express), and Golang (Gin Framework). I build RESTful APIs and work with relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases. I use Git/GitHub for collaboration and am           dedicated   to clean code and continuous learning.</p>
-  </div>
+<img align="right" height="200" src="../Vinny00101/img/github-header-banner.png" />
+
+<h2 align="left">About me</h2>
+
+###
+
+<div align="center">
+  <p align="left">Hello! I'm Vinny, an Information Systems studentand Back-end Developer with experience in .NET (C#, ASP.NET Core,Entity Framework Core), TypeScript (Node.js,             Express),and Golang (Gin Framework). I build RESTful APIs and work withrelational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases. Iuse Git/GitHub for collaboration and am           dedicated   toclean code and continuous learning.</p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinny00101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&bg_color=1e0a3c&title_color=e0c0ff&text_color=d8bfff&icon_color=bb88ff&hide_border=false" height="180" alt="stats graph"  />
