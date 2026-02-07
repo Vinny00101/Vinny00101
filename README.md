@@ -10,12 +10,6 @@
   Hello! I'm Vinny, an Information Systems studentand Back-end Developer with experience in .NET (C#, ASP.NET Core,Entity Framework Core), TypeScript (Node.js, Express),and Golang (Gin Framework). I build RESTful APIs and work withrelational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases. Iuse Git/GitHub for collaboration and am dedicated toclean code and continuous learning.
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinny00101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&bg_color=1e0a3c&title_color=e0c0ff&text_color=d8bfff&icon_color=bb88ff&hide_border=false" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinny00101&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=8&theme=default&bg_color=1e0a3c&title_color=e0c0ff&text_color=d8bfff&icon_color=bb88ff&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="100" src="https://media1.tenor.com/m/B_qbF45UZOYAAAAC/solo-leveling-sung-jin-woo.gif"  />
